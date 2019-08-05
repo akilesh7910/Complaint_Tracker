@@ -1,0 +1,8 @@
+Topic,Subtopic,PrimaryKeywords,AdditionalKeywords,ExcludeKeywords
+Customer-service,Irresponsive-employee,"service*,complain*,respons*,assis*,care*",,
+Hype,Hype-recharge error,"hype*,hipe*,card*",recharge*,
+Hype,Hype Transaction-error,"card*,hype*,hipe*","pin*,transaction*",
+Bank,Bank Transaction,payment*,"bank*,trans*,withdraw*",
+Online-Application,Online-service,"online*,app*",,
+Email Service,Irresponsive email service,email*,,
+Saddle,Saddle service,saddle*,,
